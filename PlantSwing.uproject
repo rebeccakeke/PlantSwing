@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.18",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "NeoKinectUnreal",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/130cfe979a6e4159b634d4b1d23e60da"
+		},
+		{
+			"Name": "OptitrackNatnet",
+			"Enabled": false
+		}
+	]
+}
